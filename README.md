@@ -1,1 +1,1 @@
-# aseprite_scripts
+# oh_my_aseprite
